@@ -8,7 +8,7 @@
 )](https://ci.appveyor.com/project/chsakell/aspnet-core-identity)
 
 
-## Part 1 - [Getting Started](http://chsakell.com/2018/04/28/asp-net-core-identity-series-getting-started)
+## Part 1 - [Getting Started](https://github.com/chenzuo/dotnet-core-practices/blob/master/ASP-NET-Core-Identity-Series/asp-net-core-identity-series-getting-started.md)
 
 * Introduction to ASP.NET Core Identity library
 * Describe ASP.NET Core Identity basic archirecture
